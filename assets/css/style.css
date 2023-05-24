@@ -1,0 +1,152 @@
+
+body{
+    font-family:'Cabin', sans-serif;
+}
+
+.navbar-brand{
+    font-family:'Lobster', cursive;
+    color: #fff;
+}
+
+.navbar-nav{
+    color: #fff !important;
+    margin-right: 200px;
+}
+
+.nav-link{
+    color: #fff;
+    opacity: 0px !important;
+}
+
+
+.navbar-brand{
+    font-size: 35pt;
+    margin-left: 140px;
+}
+
+h1{
+    font-family: 'Cabin', sans-serif;
+    font-size: 35pt;
+    font-weight: 700;
+}
+
+h3{
+    font-family: 'Cabin', sans-serif;
+    font-size: 18pt;
+    font-weight: 700;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+
+h4{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+
+
+.texto-pizza{
+    margin-top: 10px;
+}
+
+.btn-custom{
+    color: #373A3C;
+}
+
+
+
+footer{
+    background-color: #373A3C;
+    width: 100%;
+    height: 90px;
+}
+
+footer p{
+    font-size: 35px;
+    color: #fff;
+    text-align: center !important;
+    font-family:'Lobster', cursive;
+}
+
+.heroe-seccion{
+    justify-content: center;
+    margin-bottom: 30px !important;
+    padding-bottom: 15px;
+}
+
+
+.CARRUSEL{
+    width: 100%;
+    height: 203px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.linea hr{
+    border-color: #0000;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.PREPARACION{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.RECETAS{
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+
+.NEWSLETTER{
+    background-color: #DC3545;
+    height: 400PX;
+}
+
+.titulo-newsletter{
+    font-size:35pt;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+   padding-top: 100px !important;
+   margin-bottom: 6px;
+}
+
+
+.parrafo-newsletter{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 3px;
+    margin-bottom: 0px !important;
+    color: #fff;
+}
+
+
+.foto{
+    width: 20% !important;
+}
+
+.card-body{
+    text-align: left;
+}
+
+
+.efecto-texto{
+    font-size: 25px !important;
+}
+
+
+
+.ingredientes p{
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+}
+
+
+.ingredientes .preparacion {
+    text-align: center;
+}
